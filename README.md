@@ -26,7 +26,7 @@
 ## 📷 پیش‌نمایش (Preview)
 
 <div align="center">
-  <img src="preview.png" alt="Minimal Calculator Screenshot" width="400"/>
+  <img src="preview.jpg" alt="Minimal Calculator Screenshot" width="400"/>
 </div>
 
 
