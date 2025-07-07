@@ -38,7 +38,7 @@
 1. این ریپازیتوری را کلون یا دانلود کن:
    ```bash
    git clone https://github.com/masoudjawnf/calculator-html-css-js.git
-````
+
 
 2. فایل `index.html` را با مرورگر دلخواه خود باز کن.
 
