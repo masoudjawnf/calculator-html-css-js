@@ -29,7 +29,7 @@
   <img src="preview.png" alt="Minimal Calculator Screenshot" width="400"/>
 </div>
 
-> می‌تونی عکس پروژه رو با نام `preview.png` در ریپازیتوری قرار بدی.
+
 
 
 
