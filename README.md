@@ -56,7 +56,7 @@
 
 ## 📎 درباره من
 
-ساخته شده با ❤️ توسط [Masoud Janfeshan](https://www.linkedin.com/in/masoud-janfeshan/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-masoudjawnf-181717?style=flat\&logo=github)](https://github.com/masoudjawnf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Masoud%20Janfeshan-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/masoud-janfeshan/)
 
